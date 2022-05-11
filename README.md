@@ -139,7 +139,7 @@ I mostly rewrote some of the html, some of the css, removed scss need, and modif
 it's all fully readable and not obfuscated so you can read and trust it.
 
 ## Credits
-I would still like to maintain some credits to my original work and make sure it's not resold, I don't know if I have the right to do that but since the author stated the project is open source and free to use I guess I modify it, he did not however put a license on his git repo and therefor the repo is technically protected and can not be copied for commercial use so don't try guys, this is stated by Github somewhere.
+I would still like to maintain some credits to my original work and make sure it's not resold, I don't know if I have the right to do that but since the author stated the project is open source I guess I can modify it and reshare it, but not resell it, he did not however put a license on his git repo and therefor the repo is technically protected and can not be copied for commercial use so don't try guys, this is stated by Github somewhere.
 
 In short: If a repository has no license, then all rights are reserved and it is not Open Source or Free. You cannot modify or redistribute this code without explicit permission from the copyright holder.
 
