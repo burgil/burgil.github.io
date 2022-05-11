@@ -10,7 +10,7 @@
 
 # Enjoy!
 
-Idea came from Silicon Valley
+Idea came from the show Silicon Valley!
 
 * Kanban Board is a really useful method for managing pretty much anything in life, it's built on Agile principles and is part of the Scrum methodology, which is a part of the Agile "framework".
 
