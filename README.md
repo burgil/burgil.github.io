@@ -23,7 +23,7 @@ Active Deployment: https://burgil.github.io/
 - [The Story](#the-story)
 - [The Problem](#the-problem)
 - [First Impressions](#first-impressions)
-- [Agile - Scrum - Kanban](#agile-scrum-kanban)
+- [Agile - Scrum - Kanban](#agile---scrum---kanban)
 - [Reinventing the Wheel](#reinventing-the-wheel)
 - [Bonus](#bonus)
 - [Credits](#credits)
@@ -103,6 +103,12 @@ The web would have never existed in the first place without it being open-source
 therefor nobody can use this work for commercial use unless both the original author and me will approve the use of my rewritten code, or if the original author wish he can simply add a license to his repo and people can start working from there.
 I don't think there is anything profitable here just a really cool kanban board, and as the original repo stated it was meant to make the world a better place, so I basically am writing all of this just to let you guys know it will not only be not moral to take this code and sell it for whatever reason, I believe it's also not legal to do so but god who cares let's not share what we don't want to be shared or sold and share what we do, so basically I'm trying to say use at your own risk and all that stuff that protect people who share code and blah blah god forgive me and you and him bye.
 Oh and I also did not added a license just to keep the standards (;
+
+Original Project:
+![image](https://user-images.githubusercontent.com/41600149/167764868-8580a89a-2d4a-4849-9563-81b434afe4d2.png)
+
+Modifed Project:
+![image](https://user-images.githubusercontent.com/41600149/167764852-889f16ea-8afa-4476-a498-0334be194236.png)
 
 ## Installation
 
