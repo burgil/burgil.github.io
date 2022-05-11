@@ -135,9 +135,9 @@ As far as I'm aware, there isn't any way to cause any harm to pc's with just htm
 
 but if you want to feel safer, take those libraries called jquery and whatever and find their source or remove them completely,
 
-to be honest I usually never use jquery and manually code all animations and whatever using vanilla JS for better performance and just because I like it and hate using the $ sign to code.
+to be honest I usually never use jquery and manually code all animations and all the css using vanilla CSS and JS for better performance and just because I like it and hate using the $ sign to code.
 
-The important codes are located in stlye.css, script.js and index.html, everything else is just dependencies you can replace.
+The important codes are located in style.css, script.js and index.html, everything else is just dependencies you can replace.
 
 I mostly rewrote some of the html, some of the css, removed scss need, and modified 99% of the script.js,
 
