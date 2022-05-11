@@ -37,7 +37,6 @@ Active Deployment: https://burgil.github.io/
 
 ## The Story
 
-The project was originally created by someone named [GnashHS](https://www.reddit.com/user/GnashHS/) (Reddit) / [remyc95](https://github.com/remyc95) (Github)
 I've recently finished watching all 6 Seasons of Silicon Valley and had a great time, during the show I've noticed some stuff were a little too authentic,
 I had to google it and there I found this thing called Scrum, and finally had time to learn a bit about Agile, and Kanban Boards.
 
@@ -124,6 +123,8 @@ Original Project:
 
 Modified Project:
 ![image](https://user-images.githubusercontent.com/41600149/167764852-889f16ea-8afa-4476-a498-0334be194236.png)
+
+The project was originally created by someone named [GnashHS](https://www.reddit.com/user/GnashHS/) (Reddit) / [remyc95](https://github.com/remyc95) (Github)
 
 ## Bonus:
 As far as I'm aware, there isn't any way to cause any harm to pc's with just html css and javascript,
