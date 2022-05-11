@@ -14,10 +14,9 @@ Idea came from Silicon Valley
 
 * Kanban Board is a really useful method for managing pretty much anything in life, it's built on Agile principles and is part of the Scrum methodology, which is a part of the Agile "framework".
 
-**(I've written all of that in 18 minutes and 36 seconds!)**
+Active Deployment: https://burgil.github.io/
 
 ![Screenshot 2022-05-11 062555](https://user-images.githubusercontent.com/41600149/167763602-262246b7-d12e-4d67-ad09-688c50f9ff3f.jpg)
-Active Deployment: https://burgil.github.io/
 
 ## Table of Contents
 
@@ -33,6 +32,8 @@ Active Deployment: https://burgil.github.io/
 - [How it Works](#how-it-works)
 - [Support](#support)
 - [Contributing](#contributing)
+
+**(I've written all of that in 18 minutes and 36 seconds!)**
 
 ## The Story
 
