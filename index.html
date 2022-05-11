@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Agile Scrum Kanban Board - Made in 2022 By Burgil</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script>
+		cats = [
+			['PRODUCTION TEAM', 'green', '#789D33'],
+			['DESIGN TEAM', 'pink', '#EB4C5D'],
+			['MANAGEMENT TEAM', 'yellow', '#C2A100'],
+			['ADVERTISING TEAM', 'lightblue', '#59A7BA'],
+		]
+		</script>
+        <link rel="icon" href="images/favicon.ico" type="image/jpeg">
+    	<link rel="stylesheet" type="text/css" href="css/flexboxgrid.css">
+        <link rel="stylesheet" type="text/css" href="css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="css/jquery-ui.min.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link href='https://fonts.googleapis.com/css?family=Shadows+Into+Light|Architects+Daughter' rel='stylesheet' type='text/css'>
+    </head>
+    <body>
+    	<img src="images/trash.png" id="trash" alt="trash" title="Drag a note over here to delete it!">
+		<!-- Main container -->
+		<div id="main">
+			<!-- Panel headers -->
+			<div id="table_head" class="row">
+				<div class="col-xs-2"></div>
+				<div class="col-xs-2"><div class="title_box title_box-1 title_shortened paper">ICE BOX</div></div>
+				<div class="col-xs-2"><div class="title_box title_box-2 emergency">EMERGENCY</div></div>
+				<div class="col-xs-2"><div class="title_box title_box-3 paper">IN PROGRESS</div></div>
+				<div class="col-xs-2"><div class="title_box title_box-4 title_shortened paper">TESTING</div></div>
+				<div class="col-xs-2"><div class="title_box title_box-5 title_shortened paper">COMPLETE</div></div>
+			</div>
+			<!-- Note panels -->
+			<div id="table_content" class="row">
+				<div class="col-xs-2" id="cat_notes"></div>
+				<div class="col-xs-2" id="ice_box_content"></div>
+				<div class="col-xs-2"></div>
+				<div class="col-xs-2"></div>
+				<div class="col-xs-2"></div>
+				<div class="col-xs-2"></div>
+			</div>
+		</div>
+        <script src="js/jquery-1.12.1.min.js"></script>
+        <script src="js/jquery-ui.min.js"></script>
+        <script src="js/script.js"></script>
+    </body>
+</html>
