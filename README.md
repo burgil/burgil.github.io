@@ -96,9 +96,11 @@ Ok enough of that, let's talk about what we reinvented here shall we, What wasn'
 - The categories were literally impossible to modify and move via the interface (Fixed)
 - Notes could swallow behind the screen and disapear (Hard Fixed)
 - The canvas wasn't so responsive when resizing the window (Semi Fixed) -
+
      Notes can be zoomed smoothly but saved at the position of your screen size
      therefor when you literally move the window into another screen the entire formula will mess up
      and some notes will be under the fully height, but fixed the designs and made the background table more responsive.
+     
 - The project was from 6 years ago, and had no contributions, made on a framework that I could not run, and wasn't made out of pure css, html, and javasscript (Fixed)
 
 Special Feature:
@@ -106,6 +108,12 @@ Special Feature:
 If you downloaded the project instead of using the online version, you can feel free to move this folder anywhere around your PC,
 
 the notes will be saved to the local storage on your browser no matter where it is.
+
+Original Project:
+![image](https://user-images.githubusercontent.com/41600149/167764868-8580a89a-2d4a-4849-9563-81b434afe4d2.png)
+
+Modifed Project:
+![image](https://user-images.githubusercontent.com/41600149/167764852-889f16ea-8afa-4476-a498-0334be194236.png)
 
 ## Bonus:
 As far as I'm aware, there isn't any way to cause any harm to pc's with just html css and javascript,
@@ -126,7 +134,9 @@ I would still like to maintain some credits to my original work and make sure it
 In short: If a repository has no license, then all rights are reserved and it is not Open Source or Free. You cannot modify or redistribute this code without explicit permission from the copyright holder.
 
 [Original Github Repo](https://github.com/remyc95/sv-scrum-board)
+
 [Source for the author statements](https://www.reddit.com/r/SiliconValleyHBO/comments/4lu2i1/silicon_valley_scrum_board/)
+
 [Github statements](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 
 Will be worth mentioning that I technically never used his github repo, just his general permissions, and simply CTRL+S his website using my Chrome browser.
@@ -139,12 +149,6 @@ therefor nobody can use this work for commercial use unless both the original au
 I don't think there is anything profitable here just a really cool kanban board, and as the original repo stated it was meant to make the world a better place, so I basically am writing all of this just to let you guys know it will not only be not moral to take this code and sell it for whatever reason, I believe it's also not legal to do so but god who cares let's not share what we don't want to be shared or sold and share what we do, so basically I'm trying to say use at your own risk and all that stuff that protect people who share code and blah blah god forgive me and you and him bye.
 
 Oh and I also did not added a license just to keep the standards (;
-
-Original Project:
-![image](https://user-images.githubusercontent.com/41600149/167764868-8580a89a-2d4a-4849-9563-81b434afe4d2.png)
-
-Modifed Project:
-![image](https://user-images.githubusercontent.com/41600149/167764852-889f16ea-8afa-4476-a498-0334be194236.png)
 
 ## Installation
 
