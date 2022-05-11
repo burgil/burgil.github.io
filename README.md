@@ -136,7 +136,7 @@ All notes will be saved inside the local storage of your browser:
 1. Open devtools (F12 or CTRL+SHIFT+I or Right Click + Inspect)
 2. Go to the Application tab
 3. Expand Local Storage and click on file://
-4. All the notes data will be inside a key named Notes and the rest of the categories will be located inside the keys Cat1, Cat2, Cat3 and Cat4.
+4. All the notes data will be inside a key named Notes and the rest of the categories will be located inside the keys Cat1, Cat2, Cat3 and Cat4. (And also very important to keep the NextNoteID key as high as it is, it prevents non-unique id's and helps maintain a simple to use java script)
 
 You can also optionally create more categories, I've made it easy to choose their color, simply open the index.html file and locate the cats array at the stop of the file inside the head tag and under the title tag, now simply add a new line containing your category color and name, no need to update the text again as it acts as the default text for the category, you can ofcourse later change the category names and it will be saved in the local storage along with their position!
 
