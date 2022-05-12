@@ -30,12 +30,12 @@ body {
   display: inline;
 }
 #trash {
-  width: 10vh;
-  height: 10vh;
+  width: 60px;
+  height: 60px;
   position: fixed;
   z-index: 1;
-  left: 90%;
-  top: 87vh;
+  left: 95%;
+  bottom: 5.1vh;
 }
 #main {
   border: outset #CCC5B9 1.8vh;
